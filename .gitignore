@@ -1,0 +1,94 @@
+# Operating System files
+##########################
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+.nfs
+
+# IDE files
+##############
+# JetBrains (IntelliJ IDEA, PyCharm, etc.)
+.idea/
+
+# VSCode
+.vscode/
+
+# Eclipse
+.metadata/
+
+# NetBeans
+.nbproject/
+
+# Emacs
+*~
+\#*\#
+
+# Vim
+*.swp
+*.swo
+*.swn
+
+# Other standard exclusions
+##############################
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+VENV/
+*.egg-info/
+dist/
+build/
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# React Native
+# iOS
+ios/build/
+
+# Android
+android/app/build/
+
+# Logs
+*.log
+*.log.*
+
+# Coverage directories
+coverage/
+
+# Dependency directories
+# Ruby
+.bundle/
+vendor/bundle/
+
+# OS X system files
+.Spotlight-V100
+.Trashes
+
+# Temporary files
+*.bak
+*.swp
+*.swo
+
+# Docker
+.docker/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
