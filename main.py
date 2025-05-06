@@ -26,7 +26,7 @@ WHITELIST = [
 
 # Keywords to search for (case-insensitive substrings)
 KEYWORDS = [
-    'wickeddeathh', 'lawsuit', 'payment failed', 'icloud', 'romantic', 'love', 'bank', 'money',
+    'lawsuit', 'payment failed', 'icloud', 'romantic', 'love', 'bank', 'money',
     'investment', 'loan', 'credit', 'debt', 'inheritance', 'lottery', 'prize', 'reward',
     'whatsapp', 'telegram', 'gift card', 'bitcoin', 'crypto', 'nigerian prince', '419 scam',
     'advance fee fraud', 'private', 'confidential', 'urgent', 'immediate action required',
